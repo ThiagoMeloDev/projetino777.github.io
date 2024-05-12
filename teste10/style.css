@@ -1,0 +1,108 @@
+body {
+    background: linear-gradient(90deg, black, rgb(0, 0, 131), rgb(113, 113, 255));
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+.imagem {
+    display: flex;
+    height: 90px;
+    width: 90px;
+    justify-content: center;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%);
+    border-radius: 50%;
+    overflow: hidden;
+    border: 2px;
+}
+
+
+
+.conteudopx {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 23%;
+    left: 45%;
+    color: aquamarine;
+}
+
+
+.sobremim {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 35%;
+    left: 2%;
+    color: aquamarine;
+}
+
+
+
+
+.text   {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 40%;
+    left: 2%;
+}
+
+
+.test   {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 44%;
+    left: 2%;
+}
+
+
+.test2   {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 48%;
+    left: 2%;
+}
+
+
+.github  {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 85%;
+    left: 40%;
+}
+
+
+.instagram {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+}
+
+
+
+.linkedin  {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 85%;
+    left: 60%;
+}
+
